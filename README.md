@@ -1,4 +1,4 @@
-PCB design of Coolant Loop Control Module for UTFR electric formula one car
+PCB design of Coolant Loop Control Module. Done for UToronto Formula Electric Student Team. Below is a description of the project and requirements.
 
 **Project Summary and Requirements**
 
