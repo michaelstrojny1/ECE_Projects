@@ -4,8 +4,6 @@ PCB design of Coolant Loop Control Module. Done for UToronto Formula Electric St
 
 Summary: the cooling loop is responsible for maintaining the temperature of two critical components of the car: the motor and the inverter. Both of these devices heat up while the car runs due to inefficiencies in the powertrain. The conversion of electrical energy to mechanical energy is not ideal with some of it (roughly 10-15%) being lost as heat. In a system that can reach up to 80kW of power, this means that as much as 12kW could be dissipated as heat! There are several key components to keeping the cooling loop running. The first are two pumps that force water through the loop. The second are the radiators (one on either side of the car) with fans that cool the water. The final elements are the sensors: sensors are integrated to the coolant loop that monitor water flow rate, pressure and temperature.
 
-Main.SchDoc
-Teensy 4.1 microcontroller
 Requirements
 	The goal of this project will be to design a board that accomplishes the following:
 
